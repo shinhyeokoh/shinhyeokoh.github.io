@@ -104,5 +104,15 @@ Year | Award
 2019 | Gold Prize in 1st Kangwon SW Festival
 2018 | Grand Prize in Korean Language Information Processing Competition (Dependency Parsing)
 
-## Skills
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+## Skills (Language & Framework)
+![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
+![Pytorch](https://img.shields.io/badge/Pytorch-F17F42?style=flat-square&logo=Pytorch&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-FFBC42?style=flat-square&logo=Tensorflow&logoColor=white)
+![Java](https://img.shields.io/badge/Java-EC6A5C?style=flat-square&logo=Java&logoColor=white)
+![C](https://img.shields.io/badge/C-30A9DE?style=flat-square&logo=C&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-6C49B8?style=flat-square&logo=CSharp&logoColor=white)
+![Android](https://img.shields.io/badge/Android-75D701?style=flat-square&logo=Android&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-F17F42?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-00b9f1?style=flat-square&logo=CSS3&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F68657?style=flat-square&logo=Javascript&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-C5E99B?style=flat-square&logo=SpringBoot&logoColor=white)
