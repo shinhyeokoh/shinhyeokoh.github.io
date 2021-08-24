@@ -19,6 +19,6 @@ nav:
  - name: "About"
    link: ""
  - name: "CV"
-   link: "cv.pdf"
+   link: "https://shinhyeokoh.github.io/cv.pdf"
 
 remote_theme: ankitsultana/researcher@gem
