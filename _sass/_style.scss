@@ -11,7 +11,10 @@ html {
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+//     font-family: "Inconsolata";
+//     font-family: 'Open Sans', sans-serif;
+//     font-family: 'Roboto', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     height: 100%;
 }
 a {
@@ -63,7 +66,10 @@ hr {
 }
 
 /* Divs */
-
+.w3-container {
+    max-width: 1400px;
+    margin: auto;
+}
 .container {
     max-width: $max-width;
     margin: auto;
