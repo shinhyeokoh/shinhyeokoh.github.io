@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.jpg">
 
 I obtained a master's degree in computer and communications engineering from the Kangwon National University with a focus on an NLP such as dialog system and language model. My advisor is Prof. Harksoo Kim. I had been research on aspect-based sentiment analysis projects at Kakao Enterprise. Currently, I research on NMT and Dialog System at Netmarble AI Center.
 
