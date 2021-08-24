@@ -17,8 +17,11 @@ NLP, Sentiment Anaylsis, Dialog System
 
 ## Work Experience
 
-2. Netmarble AI Center, NLP Researcher & Engineer, 2021.04~Present (Alternative Military Service)
-1. Kakao Enterprise, NLP Researcher, 2020.09~2021.02 (Research Internship)
+2. Netmarble AI Center, NLP Researcher & Engineer, 2021.04~Present <br>
+(Alternative Military Service) <br>
+
+1. Kakao Enterprise, NLP Researcher, 2020.09~2021.02 <br>
+(Research Internship) <br>
 
 ## International Publications
 
@@ -28,66 +31,66 @@ NLP, Sentiment Anaylsis, Dialog System
 {<u>Shinhyeok Oh</u>, Dongyub Lee}<sup>+</sup>, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim (<sup>+</sup>equal contribution) <br>
 ***ACL2021*** [[PDF](https://aclanthology.org/2021.acl-short.63/)] [[Blog](https://kakaoenterprise.github.io/papers/acl-ijcnlp2021-dcran)] <br>
 
-**[2020]**
+**<span style="color:#C70039;">[2020]</span>**
 
 - **Improving Document-Level Sentiment Classification Using Importance of Sentences** <br>
-Gihyeon Choi, **Shinhyeok Oh**, Harksoo Kim <br>
+Gihyeon Choi, <u>Shinhyeok Oh</u>, Harksoo Kim <br>
 ***Entropy (SCIE)*** [[PDF](https://arxiv.org/abs/2103.05167)] <br>
 
-**[2019]**
+**<span style="color:#C70039;">[2019]</span>**
 
 - **Multi-Turn Chatbot Based on Query-Context Attentions and Dual Wasserstein Generative Adversarial Networks** <br>
-Jintae Kim, **Shinhyeok Oh**, Oh-Woog Kwon, Harksoo Kim <br>
+Jintae Kim, <u>Shinhyeok Oh</u>, Oh-Woog Kwon, Harksoo Kim <br>
 ***Appl. Sci. (SCIE)*** [[PDF](https://www.mdpi.com/2076-3417/9/18/3908)] <br>
 
 ## Domestic Publications
 
-**[2021]**
+**<span style="color:#C70039;">[2021]</span>**
 
 - **Method of Reflecting Various Personas in a Chatbot** <br>
-Jintae Kim, **Shinhyeok Oh**, Oh-Woog Kwon, Harksoo Kim <br>
+Jintae Kim, <u>Shinhyeok Oh</u>, Oh-Woog Kwon, Harksoo Kim <br>
 ***Journal of KIISE (KCI)*** <br>
 
-**[2020]**
+**<span style="color:#C70039;">[2020]</span>**
 
 - **Movie Revies Sentiment Analysis Considering the Order in which Sentiment Words Appear** <br>
-HongJin Kim, Damrin Kim, Boeun Kim, **Shinhyeok Oh**, Harksoo Kim <br>
+HongJin Kim, Damrin Kim, Boeun Kim, <u>Shinhyeok Oh</u>, Harksoo Kim <br>
 ***HCLT2020*** <br>
 
 - **Korean Named Entity Recognition Using ELECTRA and Label Attention Network** <br>
-HongJin Kim, **Shinhyeok Oh**, Harksoo Kim <br>
+HongJin Kim, <u>Shinhyeok Oh</u>, Harksoo Kim <br>
 ***HCLT2020*** <br>
 
 - **Korean Generative Chatbot using Topic Embedding** <br>
-**Shinhyeok Oh**, Harksoo Kim <br>
+<u>Shinhyeok Oh</u>, Harksoo Kim <br>
 ***HCLT2020*** <br>
 
-**[2019]**
+**<span style="color:#C70039;">[2019]</span>**
 
 - **Personal Characteristics Classifier for Persona Chatbot Research** <br>
-**Shinhyeok Oh**, Harksoo Kim, Jeong-Eom Lee, Seona Kim, Youngmin Park, Myungho Noh <br>
+<u>Shinhyeok Oh</u>, Harksoo Kim, Jeong-Eom Lee, Seona Kim, Youngmin Park, Myungho Noh <br>
 ***KSC2019*** <br>
 
 - **Personalized Multi-Turn Chatbot Based on Dual WGAN** <br>
-**Shinhyeok Oh**, Jintae Kim, Harksoo Kim, Jeong-Eom Lee, Seona Kim, Youngmin Park, Myungho Noh <br>
+<u>Shinhyeok Oh</u>, Jintae Kim, Harksoo Kim, Jeong-Eom Lee, Seona Kim, Youngmin Park, Myungho Noh <br>
 ***HCLT2019*** <br>
 
 - **Multi-head Attention and Pointer Network Based Syllables Dependency Parser** <br>
-HongJin Kim, **Shinhyeok Oh**, Damrin Kim, Boeun Kim, Harksoo Kim <br>
+HongJin Kim, <u>Shinhyeok Oh</u>, Damrin Kim, Boeun Kim, Harksoo Kim <br>
 ***HCLT2019*** <br>
 
 - **Persona Reflection Method for Generative Chatbot System** <br>
-**Shinhyeok Oh**, Jintae Kim, Youngmin Park, Seona Kim, Jeong-Eom Lee, Harksoo Kim <br>
+<u>Shinhyeok Oh</u>, Jintae Kim, Youngmin Park, Seona Kim, Jeong-Eom Lee, Harksoo Kim <br>
 ***KCC2019*** <br>
 
-**[2018]**
+**<span style="color:#C70039;">[2018]</span>**
 
 - **Korean Dependency Parsing Using ELMo and Multi-head Attention** <br>
-Seongsik Park, **Shinhyeok Oh**, Hongjin Kim, Sihyung Kim, Harksoo Kim <br>
+Seongsik Park, <u>Shinhyeok Oh</u>, Hongjin Kim, Sihyung Kim, Harksoo Kim <br>
 ***HCLT2018*** <br>
 
 - **Korean Dependency Parsing using Multi-head Attention and Pointer Network** <br>
-Seongsik Park, **Shinhyeok Oh**, Hongjin Kim, Harksoo Kim <br>
+Seongsik Park, <u>Shinhyeok Oh</u>, Hongjin Kim, Harksoo Kim <br>
 ***HCLT2018*** <br>
 
 
@@ -100,3 +103,6 @@ Year | Award
 2019 | Bronze Prize in Korean Language Information Processing Competition (Dependency Parsing)
 2019 | Gold Prize in 1st Kangwon SW Festival
 2018 | Grand Prize in Korean Language Information Processing Competition (Dependency Parsing)
+
+## Skills
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
