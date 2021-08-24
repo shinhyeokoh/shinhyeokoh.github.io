@@ -48,7 +48,7 @@ Jintae Kim, <u>Shinhyeok Oh</u>, Oh-Woog Kwon, Harksoo Kim <br>
 **<span style="color:#C70039;">[2021]</span>**
 
 - **Method of Reflecting Various Personas in a Chatbot** <br>
-Jintae Kim, <u>Shinhyeok Oh</u>, Oh-Woog Kwon, Harksoo Kim <br>
+<u>Shinhyeok Oh</u>, Seokwon Jung, Harksoo Kim <br>
 ***Journal of KIISE (KCI)*** <br>
 
 **<span style="color:#C70039;">[2020]</span>**
