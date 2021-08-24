@@ -105,9 +105,11 @@ Year | Award
 2018 | Grand Prize in Korean Language Information Processing Competition (Dependency Parsing)
 
 ## Skills (Language & Framework)
+<div style="display: inline">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" style="display: inline-block" alt="python"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" style="display: inline-block" alt="python"/>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" style="display: inline-block" alt="python"/>
+</div>
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-F17F42?style=flat-square&logo=Pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/Tensorflow-FFBC42?style=flat-square&logo=Tensorflow&logoColor=white)
