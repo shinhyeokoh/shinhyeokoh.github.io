@@ -11,11 +11,11 @@ I obtained a master's degree in computer and communications engineering from the
 Google Scholar: [Link](https://scholar.google.co.kr/citations?user=H6BKgo8AAAAJ&hl=ko)<br>
 LinkedIn: [Link](https://kr.linkedin.com/in/shinhyeok-oh-5082b51a8) <br>
 
-## Research Interest
+## Research Interests
 
 NLP, Sentiment Anaylsis, Dialog System
 
-## Work Experience
+## Work Experiences
 
 2. Netmarble AI Center, NLP Researcher & Engineer, 2021.04~Present <br>
 (Alternative Military Service) <br>
@@ -94,7 +94,7 @@ Seongsik Park, <u>Shinhyeok Oh</u>, Hongjin Kim, Harksoo Kim <br>
 ***HCLT2018*** <br>
 
 
-## Appointments & Awards
+## Awards
 
 Year | Award 
 -----|-------
