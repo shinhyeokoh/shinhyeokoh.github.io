@@ -106,9 +106,17 @@ Year | Award
 
 ## Skills (Language & Framework)
 <div style="display: inline">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" style="display: inline-block" alt="python"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" style="display: inline-block" alt="python"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" style="display: inline-block" alt="python"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" style="display: inline-block; width:9%;" alt="python"/>
+<img src="https://img.shields.io/badge/Pytorch-F17F42?style=flat-square&logo=Pytorch&logoColor=white" style="display: inline-block; width:9%;" alt="Pytorch"/>
+<img src="https://img.shields.io/badge/Tensorflow-FFBC42?style=flat-square&logo=Tensorflow&logoColor=white" style="display: inline-block; width:9%;" alt="Tensorflow"/>
+<img src="https://img.shields.io/badge/Java-EC6A5C?style=flat-square&logo=Java&logoColor=white" style="display: inline-block; width:9%;" alt="Java"/>
+<img src="https://img.shields.io/badge/C-30A9DE?style=flat-square&logo=C&logoColor=white" style="display: inline-block; width:9%;" alt="C"/>
+<img src="https://img.shields.io/badge/CSharp-6C49B8?style=flat-square&logo=CSharp&logoColor=white" style="display: inline-block; width:9%;" alt="CSharp"/>
+<img src="https://img.shields.io/badge/Android-75D701?style=flat-square&logo=Android&logoColor=white" style="display: inline-block; width:9%;" alt="Android"/>
+<img src="https://img.shields.io/badge/HTML5-F17F42?style=flat-square&logo=HTML5&logoColor=white" style="display: inline-block; width:9%;" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-00b9f1?style=flat-square&logo=CSS3&logoColor=white" style="display: inline-block; width:9%;" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Javascript-F68657?style=flat-square&logo=Javascript&logoColor=white" style="display: inline-block; width:9%;" alt="Javascript"/>
+<img src="https://img.shields.io/badge/SpringBoot-C5E99B?style=flat-square&logo=SpringBoot&logoColor=white" style="display: inline-block; width:9%;" alt="SpringBoot"/>
 </div>
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/Pytorch-F17F42?style=flat-square&logo=Pytorch&logoColor=white)
