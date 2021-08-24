@@ -22,7 +22,7 @@ Sentiment Anaylsis, Dialog System
 Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis <br>
 {**Shinhyeok Oh**, Dongyub Lee}<sup>+</sup>, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim <br>
 (<sup>+</sup>equal contribution) <br>
-**ACL2021** [[PDF](https://aclanthology.org/2021.acl-short.63/)]
+**ACL2021** [[PDF](https://aclanthology.org/2021.acl-short.63/)] [[Blog](https://kakaoenterprise.github.io/papers/acl-ijcnlp2021-dcran)]
 
 ## Domestic Publications
 
