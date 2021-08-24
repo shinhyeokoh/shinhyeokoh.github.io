@@ -6,15 +6,25 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I obtained a master's degree in computer and communications engineering from the Kangwon National University with a focus on an NLP such as dialog system and language model. My advisor is Prof. Harksoo Kim. I had been research on aspect-based sentiment analysis projects at Kakao Enterprise. Currently, I research on NMT and Dialog System at Netmarble AI Center.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Google Scholar: 
+LinkedIn: 
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+Sentiment Anaylsis, Dialog System
 
-## Publications
+## International Publications
+
+**[2021]**
+
+Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis <br>
+{**Shinhyeok Oh**, Dongyub Lee}<sup>+</sup>, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim <br>
+(<sup>+</sup>equal contribution) <br>
+**ACL2021** [[PDF](https://aclanthology.org/2021.acl-short.63/)]
+
+## Domestic Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
