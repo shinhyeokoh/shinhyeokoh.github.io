@@ -8,8 +8,8 @@ layout: default
 
 I obtained a master's degree in computer and communications engineering from the Kangwon National University with a focus on an NLP such as dialog system and language model. My advisor is Prof. Harksoo Kim. I had been research on aspect-based sentiment analysis projects at Kakao Enterprise. Currently, I research on NMT and Dialog System at Netmarble AI Center.
 
-Email: achromatically@naver.com
-Google Scholar: [Link](https://scholar.google.co.kr/citations?user=H6BKgo8AAAAJ&hl=ko)<br>
+Email: achromatically@naver.com <br>
+Google Scholar: [Link](https://scholar.google.co.kr/citations?user=H6BKgo8AAAAJ&hl=ko) <br>
 LinkedIn: [Link](https://kr.linkedin.com/in/shinhyeok-oh-5082b51a8) <br>
 
 ## Research Interests
