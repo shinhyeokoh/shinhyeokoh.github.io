@@ -19,7 +19,7 @@ NLP, Sentiment Anaylsis, Dialog System
 ## Work Experiences
 
 2. Netmarble AI Center, NLP Researcher & Engineer, 2021.04~Present <br>
-(Alternative Military Service) <br>
+(Technical Research Personnel - 전문연구요원) <br>
 
 1. Kakao Enterprise, NLP Researcher, 2020.09~2021.02 <br>
 (Research Internship) <br>
