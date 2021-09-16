@@ -30,11 +30,11 @@ NLP, Sentiment Anaylsis, Dialog System
 
 - **Netmarble AI Center's WMT21 Automatic Post-Editing Shared Task Submission** <br>
 <u>Shinhyeok Oh</u>, Sion Jang, Hu Xu, Shounan An, Insoo Oh <br>
-***EMNLP2021 workshop*** (WMT21 Shared Task system paper) [[PDF](https://arxiv.org/abs/2109.06515)] <br>
+***EMNLP 2021 workshop*** (WMT21 Shared Task system paper) [[PDF](https://arxiv.org/abs/2109.06515)] <br>
 
 - **Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis** <br>
 {<u>Shinhyeok Oh</u>, Dongyub Lee}<sup>+</sup>, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim (<sup>+</sup>equal contribution) <br>
-***ACL2021*** [[PDF](https://aclanthology.org/2021.acl-short.63/)] [[Blog](https://kakaoenterprise.github.io/papers/acl-ijcnlp2021-dcran)] <br>
+***ACL 2021*** [[PDF](https://aclanthology.org/2021.acl-short.63/)] [[Blog](https://kakaoenterprise.github.io/papers/acl-ijcnlp2021-dcran)] <br>
 
 **<span style="color:#C70039;">[2020]</span>**
 
@@ -60,43 +60,43 @@ Jintae Kim, <u>Shinhyeok Oh</u>, Oh-Woog Kwon, Harksoo Kim <br>
 
 - **Movie Revies Sentiment Analysis Considering the Order in which Sentiment Words Appear** <br>
 HongJin Kim, Damrin Kim, Boeun Kim, <u>Shinhyeok Oh</u>, Harksoo Kim <br>
-***HCLT2020*** <br>
+***HCLT 2020*** <br>
 
 - **Korean Named Entity Recognition Using ELECTRA and Label Attention Network** <br>
 HongJin Kim, <u>Shinhyeok Oh</u>, Harksoo Kim <br>
-***HCLT2020*** <br>
+***HCLT 2020*** <br>
 
 - **Korean Generative Chatbot using Topic Embedding** <br>
 <u>Shinhyeok Oh</u>, Harksoo Kim <br>
-***HCLT2020*** <br>
+***HCLT 2020*** <br>
 
 **<span style="color:#C70039;">[2019]</span>**
 
 - **Personal Characteristics Classifier for Persona Chatbot Research** <br>
 <u>Shinhyeok Oh</u>, Harksoo Kim, Jeong-Eom Lee, Seona Kim, Youngmin Park, Myungho Noh <br>
-***KSC2019*** <br>
+***KSC 2019*** <br>
 
 - **Personalized Multi-Turn Chatbot Based on Dual WGAN** <br>
 <u>Shinhyeok Oh</u>, Jintae Kim, Harksoo Kim, Jeong-Eom Lee, Seona Kim, Youngmin Park, Myungho Noh <br>
-***HCLT2019*** <br>
+***HCLT 2019*** <br>
 
 - **Multi-head Attention and Pointer Network Based Syllables Dependency Parser** <br>
 HongJin Kim, <u>Shinhyeok Oh</u>, Damrin Kim, Boeun Kim, Harksoo Kim <br>
-***HCLT2019*** <br>
+***HCLT 2019*** <br>
 
 - **Persona Reflection Method for Generative Chatbot System** <br>
 <u>Shinhyeok Oh</u>, Jintae Kim, Youngmin Park, Seona Kim, Jeong-Eom Lee, Harksoo Kim <br>
-***KCC2019*** <br>
+***KCC 2019*** <br>
 
 **<span style="color:#C70039;">[2018]</span>**
 
 - **Korean Dependency Parsing Using ELMo and Multi-head Attention** <br>
 Seongsik Park, <u>Shinhyeok Oh</u>, Hongjin Kim, Sihyung Kim, Harksoo Kim <br>
-***HCLT2018*** <br>
+***HCLT 2018*** <br>
 
 - **Korean Dependency Parsing using Multi-head Attention and Pointer Network** <br>
 Seongsik Park, <u>Shinhyeok Oh</u>, Hongjin Kim, Harksoo Kim <br>
-***HCLT2018*** <br>
+***HCLT 2018*** <br>
 
 
 ## Awards
