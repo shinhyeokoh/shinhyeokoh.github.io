@@ -30,7 +30,7 @@ NLP, Sentiment Anaylsis, Dialog System
 
 - **Netmarble AI Center's WMT21 Automatic Post-Editing Shared Task Submission** <br>
 {<u>Shinhyeok Oh</u>, Sion Jang, Hu Xu}<sup>+</sup>, Shounan An, Insoo Oh (<sup>+</sup>equal contribution) <br>
-***WMT21 @EMNLP 2021*** (System Paper) [[PDF](https://arxiv.org/abs/2109.06515)] <br>
+***WMT21*** @EMNLP 2021 (System Paper) [[PDF](https://arxiv.org/abs/2109.06515)] <br>
 
 - **Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis** <br>
 {<u>Shinhyeok Oh</u>, Dongyub Lee}<sup>+</sup>, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim (<sup>+</sup>equal contribution) <br>
