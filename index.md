@@ -18,7 +18,7 @@ NLP, Transfer Learning, Sentiment Analysis
 
 ## NEWS
 - SEP 2021: Our system paper on Automatic Post-Editing got accepted to WMT, EMNLP 2021. <br>
-- MAY 2021: Our research paper on Aspect-based Sentiment Analysis([[DCRAN](https://aclanthology.org/2021.acl-short.63/)]) got accepted to ACL-IJCNLP 2021. <br>
+- MAY 2021: Our research paper on Aspect-based Sentiment Analysis([DCRAN(https://aclanthology.org/2021.acl-short.63/)]) got accepted to ACL-IJCNLP 2021. <br>
 
 ## International Publications
 
