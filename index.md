@@ -14,7 +14,7 @@ LinkedIn: [Link](https://kr.linkedin.com/in/shinhyeok-oh-5082b51a8) <br>
 
 ## Research Interests
 
-NLP, Sentiment Anaylsis, Dialog System
+NLP, Transfer Learning, Sentiment Analysis
 
 ## Work Experiences
 
