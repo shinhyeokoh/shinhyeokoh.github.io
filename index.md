@@ -17,7 +17,7 @@ I obtained a master's degree in computer and communications engineering from the
 NLP, Transfer Learning, Sentiment Analysis
 
 ## NEWS
-- SEP 2021: Our system paper on Automatic Post-Editing got accepted to [WMT, EMNLP 2021](http://www.statmt.org/wmt21/program.html). <br>
+<span style="font-size:8px;">- SEP 2021: Our system paper on Automatic Post-Editing got accepted to [WMT, EMNLP 2021](http://www.statmt.org/wmt21/program.html).</span> <br>
 - MAY 2021: Our paper on Aspect-based Sentiment Analysis([DCRAN](https://aclanthology.org/2021.acl-short.63/)) got accepted to [ACL 2021](https://2021.aclweb.org/program/overview/). <br>
 
 ## International Publications
