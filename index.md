@@ -16,13 +16,9 @@ LinkedIn: [Link](https://kr.linkedin.com/in/shinhyeok-oh-5082b51a8) <br>
 
 NLP, Transfer Learning, Sentiment Analysis
 
-## Work Experiences
-
-2. Netmarble AI Center, NLP Researcher & Engineer, 2021.04~Present <br>
-(Technical Research Personnel - 전문연구요원) <br>
-
-1. Kakao Enterprise, NLP Researcher, 2020.09~2021.02 <br>
-(Research Internship) <br>
+## NEWS
+- SEP 2021: Our system paper on Automatic Post-Editing got accepted to WMT, EMNLP 2021. <br>
+- MAY 2021: Our research paper on Aspect-based Sentiment Analysis([[DCRAN](https://aclanthology.org/2021.acl-short.63/)]) got accepted to ACL-IJCNLP 2021. <br>
 
 ## International Publications
 
