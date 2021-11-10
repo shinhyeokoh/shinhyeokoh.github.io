@@ -17,6 +17,7 @@ I obtained a master's degree in computer and communications engineering from the
 NLP, Transfer Learning, Sentiment Analysis
 
 ## NEWS
+- <span style="font-size:0.9em;">NOV 2021: We took the first place both automatic evaluation and human evaluation in the APE task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf).</span>
 - <span style="font-size:0.9em;">SEP 2021: Our system paper on Automatic Post-Editing got accepted to [WMT, EMNLP 2021](http://www.statmt.org/wmt21/program.html).</span> <br>
 - <span style="font-size:0.9em;">MAY 2021: Our paper on Aspect-based Sentiment Analysis([DCRAN](https://aclanthology.org/2021.acl-short.63/)) got accepted to [ACL 2021](https://2021.aclweb.org/program/overview/).</span> <br>
 
@@ -26,7 +27,7 @@ NLP, Transfer Learning, Sentiment Analysis
 
 - **Netmarble AI Center's WMT21 Automatic Post-Editing Shared Task Submission** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Sion Jang, Hu Xu}<sup>+</sup>, Shounan An, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
-***EMNLP 2021***(WMT, system paper) [[PDF](https://arxiv.org/abs/2109.06515)] <br>
+***EMNLP 2021***(WMT, system paper, 1st) [[PDF](https://arxiv.org/abs/2109.06515)] [[Results](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf)] <br>
 
 - **Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Dongyub Lee}<sup>+</sup>, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim (<sup>+</sup>equal contribution)</span> <br>
@@ -99,6 +100,7 @@ NLP, Transfer Learning, Sentiment Analysis
 
 Year | Award 
 -----|-------
+2021 | The first place in the APE task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf) (Automatic Post-Editing)
 2020 | Special Prize in Korean Language Information Processing Competition (Chatbot)
 2020 | Special Prize in Korean Language Information Processing Competition (Sentiment Analysis)
 2019 | Bronze Prize in Korean Language Information Processing Competition (Dependency Parsing)
