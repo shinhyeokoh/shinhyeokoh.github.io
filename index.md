@@ -17,7 +17,7 @@ I obtained a master's degree in computer and communications engineering from the
 NLP, Transfer Learning, Sentiment Analysis
 
 ## NEWS
-- <span style="font-size:0.9em;">NOV 2021: We took the 1st place both automatic evaluation and human evaluation in the APE task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf).</span>
+- <span style="font-size:0.9em;">NOV 2021: We took the first place both automatic evaluation and human evaluation in the APE task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf).</span>
 - <span style="font-size:0.9em;">SEP 2021: Our system paper on Automatic Post-Editing got accepted to [WMT, EMNLP 2021](http://www.statmt.org/wmt21/program.html).</span> <br>
 - <span style="font-size:0.9em;">MAY 2021: Our paper on Aspect-based Sentiment Analysis([DCRAN](https://aclanthology.org/2021.acl-short.63/)) got accepted to [ACL 2021](https://2021.aclweb.org/program/overview/).</span> <br>
 
@@ -100,7 +100,7 @@ NLP, Transfer Learning, Sentiment Analysis
 
 Year | Award 
 -----|-------
-2021 | The 1st Place in the APE Task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf) (Automatic Post-Editing)
+2021 | The First Place in the APE Task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf) (Automatic Post-Editing)
 2020 | Special Prize in Korean Language Information Processing Competition (Chatbot)
 2020 | Special Prize in Korean Language Information Processing Competition (Sentiment Analysis)
 2019 | Bronze Prize in Korean Language Information Processing Competition (Dependency Parsing)
