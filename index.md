@@ -100,7 +100,7 @@ NLP, Transfer Learning, Sentiment Analysis
 
 Year | Award 
 -----|-------
-2021 | The first place in the APE task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf) (Automatic Post-Editing)
+2021 | The First Place in the APE Task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf) (Automatic Post-Editing)
 2020 | Special Prize in Korean Language Information Processing Competition (Chatbot)
 2020 | Special Prize in Korean Language Information Processing Competition (Sentiment Analysis)
 2019 | Bronze Prize in Korean Language Information Processing Competition (Dependency Parsing)
