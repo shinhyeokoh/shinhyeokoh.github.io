@@ -27,7 +27,7 @@ NLP, Transfer Learning, Sentiment Analysis
 
 - **Netmarble AI Center's WMT21 Automatic Post-Editing Shared Task Submission** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Sion Jang, Hu Xu}<sup>+</sup>, Shounan An, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
-***EMNLP 2021*** (System paper in WMT21 APE Task, 1st place) [[PDF](http://www.statmt.org/wmt21/pdf/2021.wmt-1.34.pdf)] [[Results](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf)] <br>
+***WMT @EMNLP 2021*** (System paper, 1st place) [[PDF](http://www.statmt.org/wmt21/pdf/2021.wmt-1.34.pdf)] [[Results](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf)] <br>
 
 - **Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Dongyub Lee}<sup>+</sup>, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim (<sup>+</sup>equal contribution)</span> <br>
