@@ -14,7 +14,7 @@ I obtained a master's degree in computer and communications engineering from the
 
 ## Research Interests
 
-NLP, Transfer Learning, Sentiment Analysis
+NLP, Dialog System, Sentiment Analysis
 
 ## NEWS
 - <span style="font-size:0.9em;">NOV 2021: We took the first place both automatic evaluation and human evaluation in the APE task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf).</span>
