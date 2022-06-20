@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-I obtained a master's degree in computer and communications engineering from the Kangwon National University. My advisor is Prof. Harksoo Kim. I had been research on aspect-based sentiment analysis projects at Kakao Enterprise. Currently, I research on Automatic Post-editing and Dialog System at Netmarble AI Center.
+I obtained a master's degree in computer and communications engineering from the Kangwon National University. My advisor is Prof. Harksoo Kim. I had been research on aspect-based sentiment analysis projects at Kakao Enterprise. Currently, I research on Text-to-Speech utilizing NLP approach and Dialog System at Netmarble AI Center.
 
 **Email**: achromatically@naver.com <br>
 **Google Scholar**: [Link](https://scholar.google.co.kr/citations?user=H6BKgo8AAAAJ&hl=ko) <br>
