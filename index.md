@@ -17,7 +17,8 @@ I obtained a master's degree in computer and communications engineering from the
 NLP, Dialog System, Sentiment Analysis
 
 ## NEWS
-- <span style="font-size:0.9em;">NOV 2021: We took the first place both automatic evaluation and human evaluation in the APE task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf).</span>
+- <span style="font-size:0.9em;">MAY 2021: Our paper on Text-to-Speech Synthesis(RWEN-TTS) got accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).</span> <br>
+- <span style="font-size:0.9em;">NOV 2021: We took the first place both automatic evaluation and human evaluation in the APE task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf).</span> <br>
 - <span style="font-size:0.9em;">SEP 2021: Our system paper on Automatic Post-Editing got accepted to [WMT, EMNLP 2021](http://www.statmt.org/wmt21/program.html).</span> <br>
 - <span style="font-size:0.9em;">MAY 2021: Our paper on Aspect-based Sentiment Analysis([DCRAN](https://aclanthology.org/2021.acl-short.63/)) got accepted to [ACL 2021](https://2021.aclweb.org/program/overview/).</span> <br>
 
@@ -25,6 +26,12 @@ NLP, Dialog System, Sentiment Analysis
 - Reviewer of IEEE Transactions on Audio, Speech and Language Processing
 
 ## International Publications
+
+**<span style="color:#C70039;">[2023]</span>**
+
+- **RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis** <br>
+<span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, HyungRae Noh}<sup>+</sup>, Yoonseok Hong, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
+***AAAI 2023*** (To be published) <br>
 
 **<span style="color:#C70039;">[2021]</span>**
 
