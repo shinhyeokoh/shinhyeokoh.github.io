@@ -30,7 +30,7 @@ NLP, Dialog System, Sentiment Analysis
 **<span style="color:#C70039;">[2023]</span>**
 
 - **RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis** <br>
-<span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, HyungRae Noh}<sup>+</sup>, Yoonseok Hong, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
+<span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, HyeongRae Noh}<sup>+</sup>, Yoonseok Hong, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
 ***AAAI 2023*** (To be published) <br>
 
 **<span style="color:#C70039;">[2021]</span>**
