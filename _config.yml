@@ -20,8 +20,6 @@ nav:
    link: ""
  - name: "CV"
    link: "https://shinhyeokoh.github.io/cv.pdf"
- - name: "RWEN-TTS Demo"
-   link: "https://shinhyeokoh.github.io/demo/index.html"
 
 remote_theme: ankitsultana/researcher@gem
 google_analytics: 'UA-205864649-1'
