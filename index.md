@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-I obtained a master's degree in computer and communications engineering from the Kangwon National University. My advisor is Prof. Harksoo Kim. I had been research on Aspect-based Sentiment Analysis at Kakao Enterprise. Currently, I research on Text-to-Speech utilizing NLP approach and Dialog System at Netmarble AI Center.
+As a graduate of Kangwon National University's esteemed computer and communications engineering program, I was fortunate enough to study under the guidance of esteemed Professor Harksoo Kim. Throughout my academic career, I have focused my research on the field of Natural Language Processing, and currently have the privilege of continuing this work at Riiid as I explore the intersection of NLP and AIEd. (My introduction was rewritten by ChatGPT.)
 
 **Email**: achromatically@naver.com <br>
 **Google Scholar**: [Link](https://scholar.google.co.kr/citations?user=H6BKgo8AAAAJ&hl=ko) <br>
