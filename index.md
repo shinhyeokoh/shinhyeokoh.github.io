@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-As a graduate of Kangwon National University's esteemed computer and communications engineering program, I was fortunate enough to study under the guidance of esteemed Professor Harksoo Kim. Throughout my academic career, I have focused my research on the field of Natural Language Processing, and currently have the privilege of continuing this work at Riiid as I explore the intersection of NLP and AIEd. (My introduction was rewritten by ChatGPT.)
+As a graduate of Kangwon National University's esteemed computer and communications engineering program, I was fortunate enough to study under the guidance of esteemed Professor Harksoo Kim. Throughout my academic career, I have focused my research on the field of Natural Language Processing, and currently have the privilege of continuing this work at Riiid as I explore the intersection of NLP and AIEd. For a comprehensive overview of my experiences, please refer to the attached CV file. (My introduction was rewritten by ChatGPT.)
 
 **Email**: achromatically@naver.com <br>
 **Google Scholar**: [Link](https://scholar.google.co.kr/citations?user=H6BKgo8AAAAJ&hl=ko) <br>
