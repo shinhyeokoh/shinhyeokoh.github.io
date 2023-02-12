@@ -31,17 +31,17 @@ NLP, Dialog System, Sentiment Analysis
 
 - **RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, HyeongRae Noh}<sup>+</sup>, Yoonseok Hong, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
-***AAAI 2023 (Main, Oral Presentation)*** (To be published) [[Demo](https://shinhyeokoh.github.io/demo/rwen_tts/index.html)] <br>
+***AAAI 2023 (Oral Presentation)*** (To be published) [[Demo](https://shinhyeokoh.github.io/demo/rwen_tts/index.html)] <br>
 
 **<span style="color:#C70039;">[2021]</span>**
 
 - **Netmarble AI Center's WMT21 Automatic Post-Editing Shared Task Submission** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Sion Jang, Hu Xu}<sup>+</sup>, Shounan An, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
-***WMT @EMNLP 2021 (Workshop)*** (system paper, 1st place) [[PDF](http://www.statmt.org/wmt21/pdf/2021.wmt-1.34.pdf)] [[Results](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf)] <br>
+***WMT @EMNLP 2021*** (system paper, 1st place) [[PDF](http://www.statmt.org/wmt21/pdf/2021.wmt-1.34.pdf)] [[Results](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf)] <br>
 
 - **Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Dongyub Lee}<sup>+</sup>, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim (<sup>+</sup>equal contribution)</span> <br>
-***ACL 2021 (Main, Oral Presentation)*** [[PDF](https://aclanthology.org/2021.acl-short.63/)] [[Blog](https://kakaoenterprise.github.io/papers/acl-ijcnlp2021-dcran)] <br>
+***ACL 2021 (Oral Presentation)*** [[PDF](https://aclanthology.org/2021.acl-short.63/)] [[Blog](https://kakaoenterprise.github.io/papers/acl-ijcnlp2021-dcran)] <br>
 
 **<span style="color:#C70039;">[2020]</span>**
 
