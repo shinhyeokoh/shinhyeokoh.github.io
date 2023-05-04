@@ -32,11 +32,11 @@ NLP, Large Language Models, Multi-modality
 
 - **Evaluation of Question Generation Needs More References** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Hyojun Ko}<sup>+</sup>, Hyeongdon Moon, Yunsung Lee, Myeongho Jeong, Hyun Seung Lee and Seungtaek Choi (<sup>+</sup>equal contribution)</span> <br>
-Findings of ***ACL 2023*** (To be published, Short) <br>
+***Findings of ACL 2023*** (To be published, Short) <br>
 
 - **Cross Encoding As Augmentation: Towards Effective Educational Text Classification** <br>
 <span style="font-size:0.9em;">Hyun Seung Lee, Myeongho Jeong, Yunsung Lee, <u>Shinhyeok Oh</u>, Hyeongdon Moon, Hyojun Go, Seungtaek Choi and Christian Wallraven</span> <br>
-Findings of ***ACL 2023*** (To be published, Short) <br>
+***Findings of ACL 2023*** (To be published, Short) <br>
 
 - **RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, HyeongRae Noh}<sup>+</sup>, Yoonseok Hong, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
