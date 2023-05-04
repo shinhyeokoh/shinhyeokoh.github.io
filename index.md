@@ -32,11 +32,11 @@ NLP, Dialog System, Sentiment Analysis
 
 - **Evaluation of Question Generation Needs More References** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Hyojun Ko}<sup>+</sup>, Hyeongdon Moon, Yunsung Lee, Myeongho Jeong, Hyun Seung Lee and Seungtaek Choi (<sup>+</sup>equal contribution)</span> <br>
-Findings of ***ACL 2023*** (To be published, Short Paper) <br>
+Findings of ***ACL 2023*** (To be published, Short) <br>
 
 - **Cross Encoding As Augmentation: Towards Effective Educational Text Classification** <br>
 <span style="font-size:0.9em;">Hyun Seung Lee, Myeongho Jeong, Yunsung Lee, <u>Shinhyeok Oh</u>, Hyeongdon Moon, Hyojun Go, Seungtaek Choi and Christian Wallraven</span> <br>
-Findings of ***ACL 2023*** (To be published, Short Paper) <br>
+Findings of ***ACL 2023*** (To be published, Short) <br>
 
 - **RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, HyeongRae Noh}<sup>+</sup>, Yoonseok Hong, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
@@ -50,7 +50,7 @@ Findings of ***ACL 2023*** (To be published, Short Paper) <br>
 
 - **Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Dongyub Lee}<sup>+</sup>, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim (<sup>+</sup>equal contribution)</span> <br>
-***ACL 2021*** (Oral Presentation, Short Paper) [[PDF](https://aclanthology.org/2021.acl-short.63/)] [[Blog](https://kakaoenterprise.github.io/papers/acl-ijcnlp2021-dcran)] <br>
+***ACL 2021*** (Oral Presentation, Short) [[PDF](https://aclanthology.org/2021.acl-short.63/)] [[Blog](https://kakaoenterprise.github.io/papers/acl-ijcnlp2021-dcran)] <br>
 
 ## International Journals
 
