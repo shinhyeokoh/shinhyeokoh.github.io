@@ -14,7 +14,7 @@ As a graduate of Kangwon National University's esteemed computer and communicati
 
 ## Research Interests
 
-NLP, Dialog System, Sentiment Analysis
+NLP, Large Language Models, Multi-modality
 
 ## NEWS
 - <span style="font-size:0.9em;">May 2023: Our 2 papers got accepted to Findings of [ACL 2023](https://2023.aclweb.org/).</span> <br>
