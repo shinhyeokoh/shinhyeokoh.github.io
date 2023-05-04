@@ -17,6 +17,7 @@ As a graduate of Kangwon National University's esteemed computer and communicati
 NLP, Dialog System, Sentiment Analysis
 
 ## NEWS
+- <span style="font-size:0.9em;">May 2023: Our paper on Evaluation of Question Generation got accepted to Findings of [ACL 2023](https://2023.aclweb.org/).</span> <br>
 - <span style="font-size:0.9em;">NOV 2022: Our paper on Text-to-Speech Synthesis(RWEN-TTS) got accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).</span> <br>
 - <span style="font-size:0.9em;">NOV 2021: We took the first place both automatic evaluation and human evaluation in the APE task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf).</span> <br>
 - <span style="font-size:0.9em;">SEP 2021: Our system paper on Automatic Post-Editing got accepted to [WMT, EMNLP 2021](http://www.statmt.org/wmt21/program.html).</span> <br>
@@ -25,9 +26,13 @@ NLP, Dialog System, Sentiment Analysis
 ## Academic Activities
 - Reviewer of IEEE Transactions on Audio, Speech and Language Processing
 
-## International Publications
+## International Conferences
 
 **<span style="color:#C70039;">[2023]</span>**
+
+- **Evaluation of Question Generation Needs More References** <br>
+<span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Hyojun Ko}<sup>+</sup>, Hyeongdon Moon, Yunsung Lee, Myeongho Jeong, Hyun Seung Lee and Seungtaek Choi (<sup>+</sup>equal contribution)</span> <br>
+Findings of ***ACL 2023*** (To be published, Short Paper) <br>
 
 - **RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, HyeongRae Noh}<sup>+</sup>, Yoonseok Hong, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
@@ -37,11 +42,13 @@ NLP, Dialog System, Sentiment Analysis
 
 - **Netmarble AI Center's WMT21 Automatic Post-Editing Shared Task Submission** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Sion Jang, Hu Xu}<sup>+</sup>, Shounan An, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
-***WMT @EMNLP 2021*** (System paper, 1st place) [[PDF](http://www.statmt.org/wmt21/pdf/2021.wmt-1.34.pdf)] [[Results](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf)] <br>
+***WMT @EMNLP 2021*** (Poster Presentation, System paper, 1st place) [[PDF](http://www.statmt.org/wmt21/pdf/2021.wmt-1.34.pdf)] [[Results](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf)] <br>
 
 - **Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Dongyub Lee}<sup>+</sup>, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim (<sup>+</sup>equal contribution)</span> <br>
 ***ACL 2021*** (Oral Presentation, Short Paper) [[PDF](https://aclanthology.org/2021.acl-short.63/)] [[Blog](https://kakaoenterprise.github.io/papers/acl-ijcnlp2021-dcran)] <br>
+
+## International Journals
 
 **<span style="color:#C70039;">[2020]</span>**
 
