@@ -28,8 +28,6 @@ NLP, Large Language Models, Multi-modality
 
 ## International Conferences
 
-**<span style="color:#C70039;">[2023]</span>**
-
 - **Evaluation of Question Generation Needs More References** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Hyojun Ko}<sup>+</sup>, Hyeongdon Moon, Yunsung Lee, Myeongho Jeong, Hyun Seung Lee and Seungtaek Choi (<sup>+</sup>equal contribution)</span> <br>
 ***Findings of ACL 2023*** (Accepted, Short) <br>
@@ -41,8 +39,6 @@ NLP, Large Language Models, Multi-modality
 - **RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, HyeongRae Noh}<sup>+</sup>, Yoonseok Hong, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
 ***AAAI 2023*** (Oral Presentation) [[PDF](https://arxiv.org/pdf/2212.07939.pdf)] [[Demo](https://shinhyeokoh.github.io/demo/rwen_tts/index.html)] <br>
-
-**<span style="color:#C70039;">[2021]</span>**
 
 - **Netmarble AI Center's WMT21 Automatic Post-Editing Shared Task Submission** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Sion Jang, Hu Xu}<sup>+</sup>, Shounan An, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
@@ -68,13 +64,9 @@ NLP, Large Language Models, Multi-modality
 
 ## Domestic Publications
 
-**<span style="color:#C70039;">[2021]</span>**
-
 - **Method of Reflecting Various Personas in a Chatbot** <br>
 <span style="font-size:0.9em;"><u>Shinhyeok Oh</u>, Seokwon Jung, Harksoo Kim</span> <br>
 ***Journal of KIISE (KCI)*** <br>
-
-**<span style="color:#C70039;">[2020]</span>**
 
 - **Movie Revies Sentiment Analysis Considering the Order in which Sentiment Words Appear** <br>
 <span style="font-size:0.9em;">HongJin Kim, Damrin Kim, Boeun Kim, <u>Shinhyeok Oh</u>, Harksoo Kim</span> <br>
@@ -87,8 +79,6 @@ NLP, Large Language Models, Multi-modality
 - **Korean Generative Chatbot using Topic Embedding** <br>
 <span style="font-size:0.9em;"><u>Shinhyeok Oh</u>, Harksoo Kim</span> <br>
 ***HCLT 2020*** <br>
-
-**<span style="color:#C70039;">[2019]</span>**
 
 - **Personal Characteristics Classifier for Persona Chatbot Research** <br>
 <span style="font-size:0.9em;"><u>Shinhyeok Oh</u>, Harksoo Kim, Jeong-Eom Lee, Seona Kim, Youngmin Park, Myungho Noh</span> <br>
@@ -105,8 +95,6 @@ NLP, Large Language Models, Multi-modality
 - **Persona Reflection Method for Generative Chatbot System** <br>
 <span style="font-size:0.9em;"><u>Shinhyeok Oh</u>, Jintae Kim, Youngmin Park, Seona Kim, Jeong-Eom Lee, Harksoo Kim</span> <br>
 ***KCC 2019*** <br>
-
-**<span style="color:#C70039;">[2018]</span>**
 
 - **Korean Dependency Parsing Using ELMo and Multi-head Attention** <br>
 <span style="font-size:0.9em;">Seongsik Park, <u>Shinhyeok Oh</u>, Hongjin Kim, Sihyung Kim, Harksoo Kim</span> <br>
