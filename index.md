@@ -50,13 +50,9 @@ NLP, Large Language Models, Multi-modality
 
 ## International Journals
 
-**<span style="color:#C70039;">[2020]</span>**
-
 - **Improving Document-Level Sentiment Classification Using Importance of Sentences** <br>
 <span style="font-size:0.9em;">Gihyeon Choi, <u>Shinhyeok Oh</u>, Harksoo Kim</span> <br>
 ***Entropy (SCIE)*** [[PDF](https://arxiv.org/abs/2103.05167)] <br>
-
-**<span style="color:#C70039;">[2019]</span>**
 
 - **Multi-Turn Chatbot Based on Query-Context Attentions and Dual Wasserstein Generative Adversarial Networks** <br>
 <span style="font-size:0.9em;">Jintae Kim, <u>Shinhyeok Oh</u>, Oh-Woog Kwon, Harksoo Kim</span> <br>
