@@ -117,16 +117,16 @@ Year | Award
 
 ## Teaching Experience
 - **Instructor, Kangwon National University, 2023** <br>
-Courses: Special Lecture for Freshman (Topic: AI Foundation Models) <br> <br>
+Courses: Special Lecture for Freshman (Topic: AI Foundation Models) <br>
 
 - **Instructor, Kangwon National University, 2022** <br>
-Courses: Special Lecture for Junior (Topic: Career in Artificial Intelligence) <br> <br>
+Courses: Special Lecture for Junior (Topic: Career in Artificial Intelligence) <br>
 
 - **Teaching Assistant, LG Uplus, 2020** <br>
-Courses: Natural Language Processing <br> <br>
+Courses: Natural Language Processing <br>
 
 - **Teaching Assistant, Kangwon National University, 2018-2019** <br>
-Courses: Java Programming, C Programming, App Programing <br> <br>
+Courses: Java Programming, C Programming, App Programing <br>
 
 - **Instructor, Kangwon National University, 2017** (supplementary classes supported by Kangwon National University) <br>
 Courses: Java Programming <br> <br>
