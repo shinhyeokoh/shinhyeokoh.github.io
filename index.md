@@ -104,6 +104,7 @@ NLP, Large Language Models, Multi-modality
 <span style="font-size:0.9em;">Seongsik Park, <u>Shinhyeok Oh</u>, Hongjin Kim, Harksoo Kim</span> <br>
 ***HCLT 2018*** <br>
 
+
 ## Awards
 
 Year | Award 
@@ -114,7 +115,7 @@ Year | Award
 2019 | Bronze Prize in Korean Language Information Processing Competition (Dependency Parsing)
 2019 | Gold Prize in 1st Kangwon SW Festival
 2018 | Grand Prize in Korean Language Information Processing Competition (Dependency Parsing)
-<br>
+
 
 ## Teaching Experience
 
