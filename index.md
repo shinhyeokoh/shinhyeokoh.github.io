@@ -25,7 +25,7 @@ NLP, Large Language Models, Multi-modality
 ## Academic Activities
 - Reviewer of IEEE Transactions on Audio, Speech and Language Processing
 
-## International Conferences
+## International Publications
 - **Multi-Architecture Multi-Expert Diffusion Models** <br>
 <span style="font-size:0.9em;">{Yunsung Lee, Jin-Young Kim, Hyojun Go}<sup>+</sup>, Myeongho Jeong, <u>Shinhyeok Oh</u>, Seungtaek Choi (<sup>+</sup>Co-first author)</span> <br>
 ***Arxiv Preprint (Under review)*** [[PDF](https://arxiv.org/pdf/2306.04990.pdf)] <br>
@@ -53,8 +53,6 @@ NLP, Large Language Models, Multi-modality
 - **Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Dongyub Lee}<sup>+</sup>, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim (<sup>+</sup>equal contribution)</span> <br>
 ***ACL 2021*** (Oral Presentation, Short) [[PDF](https://aclanthology.org/2021.acl-short.63/)] [[Blog](https://kakaoenterprise.github.io/papers/acl-ijcnlp2021-dcran)] <br>
-
-## International Journals
 
 - **Improving Document-Level Sentiment Classification Using Importance of Sentences** <br>
 <span style="font-size:0.9em;">Gihyeon Choi, <u>Shinhyeok Oh</u>, Harksoo Kim</span> <br>
