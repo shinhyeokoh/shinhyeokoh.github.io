@@ -27,14 +27,21 @@ NLP, Large Language Models, Multi-modality
 - Reviewer of IEEE Transactions on Audio, Speech and Language Processing
 
 ## International Conferences
+- **Multi-Architecture Multi-Expert Diffusion Models** <br>
+<span style="font-size:0.9em;">{Yunsung Lee, Jin-Young Kim, Hyojun Go}<sup>+</sup>, Myeongho Jeong, <u>Shinhyeok Oh</u>, Seungtaek Choi (<sup>+</sup>Co-first author)</span> <br>
+***Arxiv Preprint (Under review)*** [[PDF](https://arxiv.org/pdf/2306.04990.pdf)] <br>
+
+- **Addressing Negative Transfer in Diffusion Models** <br>
+<span style="font-size:0.9em;">{Hyojun Go, JinYoung Kim, Yunsung Lee}<sup>+</sup>, Seunghyun Lee, <u>Shinhyeok Oh</u>, Hyeongdon Moon, Seungtaek Choi (<sup>+</sup>Co-first author)</span> <br>
+***Arxiv Preprint (Under review)*** [[PDF](https://arxiv.org/pdf/2306.00354.pdf)] <br>
 
 - **Evaluation of Question Generation Needs More References** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Hyojun Ko}<sup>+</sup>, Hyeongdon Moon, Yunsung Lee, Myeongho Jeong, Hyun Seung Lee and Seungtaek Choi (<sup>+</sup>equal contribution)</span> <br>
-***Findings of ACL 2023*** (Accepted, Short) <br>
+***Findings of ACL 2023*** (Accepted, Short) [[PDF](https://arxiv.org/pdf/2305.18977.pdf)] <br>
 
 - **Cross Encoding As Augmentation: Towards Effective Educational Text Classification** <br>
 <span style="font-size:0.9em;">Hyun Seung Lee, Myeongho Jeong, Yunsung Lee, <u>Shinhyeok Oh</u>, Hyeongdon Moon, Hyojun Go, Seungtaek Choi and Christian Wallraven</span> <br>
-***Findings of ACL 2023*** (Accepted, Short) <br>
+***Findings of ACL 2023*** (Accepted, Short) [[PDF](https://arxiv.org/pdf/2305.16626.pdf)] <br>
 
 - **RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, HyeongRae Noh}<sup>+</sup>, Yoonseok Hong, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
