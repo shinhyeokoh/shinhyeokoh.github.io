@@ -5,8 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="profile.jpg">
-
-As a graduate of Kangwon National University's esteemed computer and communications engineering program, I was fortunate enough to study under the guidance of esteemed Professor Harksoo Kim. Throughout my academic career, I have focused my research on the field of Natural Language Processing, and currently have the privilege of continuing this work at Riiid as I explore the intersection of NLP and AIEd. For a comprehensive overview of my experiences, please refer to the attached [CV](https://shinhyeokoh.github.io/cv.pdf). (My introduction was rewritten by ChatGPT.)
+I obtained a master's degree in computer and communications engineering from the Kangwon National University, under the guidance of Prof. Harksoo Kim. I am currently working at Riiid as Research Scientist (NLP). I enjoy discussing topics related to transfer learning. I find pleasure in exploring ways, such as self-supervised learning, domain adaptation, and multimodality, to extract value from previously unutilized something.
 
 **Email**: achromatically@naver.com <br>
 **Google Scholar**: [Link](https://scholar.google.co.kr/citations?user=H6BKgo8AAAAJ&hl=ko) <br>
