@@ -116,20 +116,20 @@ Year | Award
 2018 | Grand Prize in Korean Language Information Processing Competition (Dependency Parsing)
 
 ## Teaching Experience
-- **Instructor, Kangwon National University, 2023**
-Courses: Special Lecture for Freshman (Topic: AI Foundation Models)
+- **Instructor, Kangwon National University, 2023** <br>
+Courses: Special Lecture for Freshman (Topic: AI Foundation Models) <br> <br>
 
-- **Instructor, Kangwon National University, 2022**
-Courses: Special Lecture for Junior (Topic: Career in Artificial Intelligence)
+- **Instructor, Kangwon National University, 2022** <br>
+Courses: Special Lecture for Junior (Topic: Career in Artificial Intelligence) <br> <br>
 
-- **Teaching Assistant, LG Uplus, 2020**
-Courses: Natural Language Processing
+- **Teaching Assistant, LG Uplus, 2020** <br>
+Courses: Natural Language Processing <br> <br>
 
-- **Teaching Assistant, Kangwon National University, 2018-2019**
-Courses: Java Programming, C Programming, App Programing
+- **Teaching Assistant, Kangwon National University, 2018-2019** <br>
+Courses: Java Programming, C Programming, App Programing <br> <br>
 
-- **Instructor, Kangwon National University, 2017** (supplementary classes supported by Kangwon National University)
-Courses: Java Programming
+- **Instructor, Kangwon National University, 2017** (supplementary classes supported by Kangwon National University) <br>
+Courses: Java Programming <br> <br>
 
 ## Skills (Language & Framework)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" style="width: auto;" alt="python"/>
