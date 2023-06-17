@@ -105,6 +105,7 @@ NLP, Large Language Models, Multi-modality
 ***HCLT 2018*** <br>
 
 ## Awards
+
 Year | Award 
 -----|-------
 2021 | The First Place in the APE Task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf) (Automatic Post-Editing)
@@ -116,6 +117,7 @@ Year | Award
 <br>
 
 ## Teaching Experience
+
 - **Instructor, Kangwon National University, 2023** <br>
 Courses: Special Lecture for Freshman (Topic: AI Foundation Models) <br>
 
