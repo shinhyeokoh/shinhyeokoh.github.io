@@ -40,7 +40,7 @@ NLP, Large Language Models, Multi-modality
 ***Findings of ACL 2023*** (Accepted, Short) [[PDF](https://arxiv.org/pdf/2305.18977.pdf)] <br>
 
 - **Cross Encoding As Augmentation: Towards Effective Educational Text Classification** <br>
-<span style="font-size:0.9em;">{Hyun Seung Lee, Seungtaek Choi}<sup>+</sup>, Yunsung Lee, Hyeongdon Moon, <u>Shinhyeok Oh</u>, Myeongho Jeong, Hyojun Go, Christian Wallraven</span> <br>
+<span style="font-size:0.9em;">{Hyun Seung Lee, Seungtaek Choi}<sup>+</sup>, Yunsung Lee, Hyeongdon Moon, <u>Shinhyeok Oh</u>, Myeongho Jeong, Hyojun Go, Christian Wallraven (<sup>+</sup>equal contribution)</span> <br>
 ***Findings of ACL 2023*** (Accepted, Short) [[PDF](https://arxiv.org/pdf/2305.16626.pdf)] <br>
 
 - **RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis** <br>
