@@ -106,7 +106,6 @@ NLP, Large Language Models, Multi-modality
 
 
 ## Awards
-
 Year | Award 
 -----|-------
 2021 | The First Place in the APE Task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf) (Automatic Post-Editing)
@@ -115,6 +114,22 @@ Year | Award
 2019 | Bronze Prize in Korean Language Information Processing Competition (Dependency Parsing)
 2019 | Gold Prize in 1st Kangwon SW Festival
 2018 | Grand Prize in Korean Language Information Processing Competition (Dependency Parsing)
+
+## Teaching Experience
+- **Instructor, Kangwon National University, 2023**
+Courses: Special Lecture for Freshman (Topic: AI Foundation Models)
+
+- **Instructor, Kangwon National University, 2022**
+Courses: Special Lecture for Junior (Topic: Career in Artificial Intelligence)
+
+- **Teaching Assistant, LG Uplus, 2020**
+Courses: Natural Language Processing
+
+- **Teaching Assistant, Kangwon National University, 2018-2019**
+Courses: Java Programming, C Programming, App Programing
+
+- **Instructor, Kangwon National University, 2017** (supplementary classes supported by Kangwon National University)
+Courses: Java Programming
 
 ## Skills (Language & Framework)
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" style="width: auto;" alt="python"/>
