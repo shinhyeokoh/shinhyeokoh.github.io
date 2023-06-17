@@ -5,7 +5,7 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="profile.jpg">
-I obtained a master's degree in computer and communications engineering from the Kangwon National University, under the guidance of Prof. Harksoo Kim. I am currently working at Riiid as Research Scientist (NLP). I enjoy discussing topics related to transfer learning. I find pleasure in exploring ways, such as self-supervised learning, domain adaptation, and multimodality, to extract value from previously unutilized something.
+I obtained a master's degree in computer and communications engineering from the Kangwon National University, under the guidance of Prof. Harksoo Kim. I am currently working at Riiid as Research Scientist (NLP). I enjoy discussing topics related to transfer learning. I find pleasure in exploring ways, such as self-supervised learning, domain adaptation, and multimodality, to extract value from previously unutilized something. <br>
 
 **Email**: achromatically@naver.com <br>
 **Google Scholar**: [Link](https://scholar.google.co.kr/citations?user=H6BKgo8AAAAJ&hl=ko) <br>
