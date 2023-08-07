@@ -36,19 +36,19 @@ Transfer Learning, Multimodality, Large Language Models
 
 - **Evaluation of Question Generation Needs More References** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Hyojun Ko}<sup>+</sup>, Hyeongdon Moon, Yunsung Lee, Myeongho Jeong, Hyun Seung Lee and Seungtaek Choi (<sup>+</sup>equal contribution)</span> <br>
-***Findings of ACL 2023*** (Accepted, Short) [[PDF](https://arxiv.org/pdf/2305.18977.pdf)] <br>
+***Findings of ACL 2023*** (Poster Presentation, Short) [[PDF](https://aclanthology.org/2023.findings-acl.396/)] <br>
 
 - **Cross Encoding As Augmentation: Towards Effective Educational Text Classification** <br>
 <span style="font-size:0.9em;">{Hyun Seung Lee, Seungtaek Choi}<sup>+</sup>, Yunsung Lee, Hyeongdon Moon, <u>Shinhyeok Oh</u>, Myeongho Jeong, Hyojun Go, Christian Wallraven (<sup>+</sup>equal contribution)</span> <br>
-***Findings of ACL 2023*** (Accepted, Short) [[PDF](https://arxiv.org/pdf/2305.16626.pdf)] <br>
+***Findings of ACL 2023*** (Poster Presentation, Short) [[PDF](https://aclanthology.org/2023.findings-acl.137/)] <br>
 
 - **RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, HyeongRae Noh}<sup>+</sup>, Yoonseok Hong, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
-***AAAI 2023*** (Oral Presentation) [[PDF](https://arxiv.org/pdf/2212.07939.pdf)] [[Demo](https://shinhyeokoh.github.io/demo/rwen_tts/index.html)] <br>
+***AAAI 2023*** (Oral Presentation) [[PDF](https://arxiv.org/abs/2212.07939)] [[Demo](https://shinhyeokoh.github.io/demo/rwen_tts/index.html)] <br>
 
 - **Netmarble AI Center's WMT21 Automatic Post-Editing Shared Task Submission** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Sion Jang, Hu Xu}<sup>+</sup>, Shounan An, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
-***WMT @EMNLP 2021*** (Poster Presentation, System paper, 1st place) [[PDF](http://www.statmt.org/wmt21/pdf/2021.wmt-1.34.pdf)] [[Results](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf)] <br>
+***WMT @EMNLP 2021*** (Poster Presentation, System paper, 1st place) [[PDF](https://aclanthology.org/2021.wmt-1.34/)] [[Results](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf)] <br>
 
 - **Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Dongyub Lee}<sup>+</sup>, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim (<sup>+</sup>equal contribution)</span> <br>
