@@ -26,7 +26,8 @@ Transfer Learning, Multimodality, Large Language Models
 - Reviewer of IEEE Transactions on Audio, Speech and Language Processing
 
 ## International Publications
-**<span style="color:#C70039;">[2023]</span>** <br>
+**<span style="color:#C70039;">[2023]</span>**
+
 - **Multi-Architecture Multi-Expert Diffusion Models** <br>
 <span style="font-size:0.9em;">{Yunsung Lee, Jin-Young Kim, Hyojun Go}<sup>+</sup>, Myeongho Jeong, <u>Shinhyeok Oh</u>, Seungtaek Choi (<sup>+</sup>Co-first author)</span> <br>
 ***Arxiv Preprint*** (Under review) [[PDF](https://arxiv.org/pdf/2306.04990.pdf)] <br>
@@ -46,8 +47,9 @@ Transfer Learning, Multimodality, Large Language Models
 - **RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, HyeongRae Noh}<sup>+</sup>, Yoonseok Hong, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
 ***AAAI 2023*** (Oral Presentation) [[PDF](https://arxiv.org/abs/2212.07939)] [[Demo](https://shinhyeokoh.github.io/demo/rwen_tts/index.html)] <br>
-<br>
-**<span style="color:#C70039;">[2021]</span>** <br>
+
+**<span style="color:#C70039;">[2021]</span>**
+
 - **Netmarble AI Center's WMT21 Automatic Post-Editing Shared Task Submission** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Sion Jang, Hu Xu}<sup>+</sup>, Shounan An, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
 ***WMT @EMNLP 2021*** (Poster Presentation, System paper, 1st place) [[PDF](https://aclanthology.org/2021.wmt-1.34/)] [[Results](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf)] <br>
@@ -55,13 +57,15 @@ Transfer Learning, Multimodality, Large Language Models
 - **Deep Context- and Relation-Aware Learning for Aspect-based Sentiment Analysis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, Dongyub Lee}<sup>+</sup>, Taesun Whang, IlNam Park, Gaeun Seo, EungGyun Kim, Harksoo Kim (<sup>+</sup>equal contribution)</span> <br>
 ***ACL 2021*** (Oral Presentation, Short) [[PDF](https://aclanthology.org/2021.acl-short.63/)] [[Blog](https://kakaoenterprise.github.io/papers/acl-ijcnlp2021-dcran)] <br>
-<br>
-**<span style="color:#C70039;">[2020]</span>** <br>
+
+**<span style="color:#C70039;">[2020]</span>**
+
 - **Improving Document-Level Sentiment Classification Using Importance of Sentences** <br>
 <span style="font-size:0.9em;">Gihyeon Choi, <u>Shinhyeok Oh</u>, Harksoo Kim</span> <br>
 ***Entropy (SCIE)*** [[PDF](https://arxiv.org/abs/2103.05167)] <br>
 
-**<span style="color:#C70039;">[2019]</span>** <br>
+**<span style="color:#C70039;">[2019]</span>**
+
 - **Multi-Turn Chatbot Based on Query-Context Attentions and Dual Wasserstein Generative Adversarial Networks** <br>
 <span style="font-size:0.9em;">Jintae Kim, <u>Shinhyeok Oh</u>, Oh-Woog Kwon, Harksoo Kim</span> <br>
 ***Appl. Sci. (SCIE)*** [[PDF](https://www.mdpi.com/2076-3417/9/18/3908)] <br>
