@@ -46,7 +46,7 @@ Transfer Learning, Large Language Models, Multimodality
 
 - **RWEN-TTS: Relation-aware Word Encoding Network for Natural Text-to-Speech Synthesis** <br>
 <span style="font-size:0.9em;">{<u>Shinhyeok Oh</u>, HyeongRae Noh}<sup>+</sup>, Yoonseok Hong, Insoo Oh (<sup>+</sup>equal contribution)</span> <br>
-***AAAI 2023*** (Oral Presentation) [[PDF](https://arxiv.org/abs/2212.07939)] [[Demo](https://shinhyeokoh.github.io/demo/rwen_tts/index.html)] <br>
+***AAAI 2023*** (Oral Presentation) [[PDF](https://arxiv.org/abs/2212.07939)] [[Demo](https://shinhyeokoh.github.io/demo/rwen_tts/index.html)]
 
 **<span style="color:#C70039;">[2021]</span>**
 
@@ -62,7 +62,7 @@ Transfer Learning, Large Language Models, Multimodality
 
 - **Improving Document-Level Sentiment Classification Using Importance of Sentences** <br>
 <span style="font-size:0.9em;">Gihyeon Choi, <u>Shinhyeok Oh</u>, Harksoo Kim</span> <br>
-***Entropy (SCIE)*** [[PDF](https://arxiv.org/abs/2103.05167)] <br>
+***Entropy (SCIE)*** [[PDF](https://arxiv.org/abs/2103.05167)] 
 
 **<span style="color:#C70039;">[2019]</span>**
 
