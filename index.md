@@ -13,7 +13,7 @@ I obtained a master's degree in computer and communications engineering from the
 
 ## Research Interests
 
-Transfer Learning, Multimodality, Large Language Models
+Transfer Learning, Large Language Models, Multimodality
 
 ## NEWS
 - <span style="font-size:0.9em;">May 2023: Our 2 papers got accepted to Findings of [ACL 2023](https://2023.aclweb.org/).</span> <br>
