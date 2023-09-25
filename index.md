@@ -16,8 +16,9 @@ I obtained a master's degree in computer and communications engineering from the
 Transfer Learning, Large Language Models, Multimodality
 
 ## NEWS
+- <span style="font-size:0.9em;">SEP 2023: Our paper on diffusion models (ANT) got accepted to [NeurIPS 2023](https://nips.cc/).</span> <br>
 - <span style="font-size:0.9em;">May 2023: Our 2 papers got accepted to Findings of [ACL 2023](https://2023.aclweb.org/).</span> <br>
-- <span style="font-size:0.9em;">NOV 2022: Our paper on Text-to-Speech Synthesis(RWEN-TTS) got accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).</span> <br>
+- <span style="font-size:0.9em;">NOV 2022: Our paper on text-to-speech synthesis (RWEN-TTS) got accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).</span> <br>
 - <span style="font-size:0.9em;">NOV 2021: We took the first place both automatic evaluation and human evaluation in the APE task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf).</span> <br>
 - <span style="font-size:0.9em;">SEP 2021: Our system paper on Automatic Post-Editing got accepted to [WMT, EMNLP 2021](http://www.statmt.org/wmt21/program.html).</span> <br>
 - <span style="font-size:0.9em;">MAY 2021: Our paper on Aspect-based Sentiment Analysis([DCRAN](https://aclanthology.org/2021.acl-short.63/)) got accepted to [ACL 2021](https://2021.aclweb.org/program/overview/).</span> <br>
