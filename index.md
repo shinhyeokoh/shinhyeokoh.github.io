@@ -24,6 +24,7 @@ Transfer Learning, Large Language Models, Multimodality
 - <span style="font-size:0.9em;">MAY 2021: Our paper on Aspect-based Sentiment Analysis([DCRAN](https://aclanthology.org/2021.acl-short.63/)) got accepted to [ACL 2021](https://2021.aclweb.org/program/overview/).</span> <br>
 
 ## Academic Activities
+- Reviewer of ACL, NAACL, EACL, and ARR
 - Reviewer of IEEE Transactions on Audio, Speech and Language Processing
 
 ## International Publications
