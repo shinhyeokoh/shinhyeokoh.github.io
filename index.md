@@ -10,6 +10,7 @@ I obtained a master's degree in computer and communications engineering from the
 **Email**: achromatically@naver.com <br>
 **Google Scholar**: [Link](https://scholar.google.co.kr/citations?user=H6BKgo8AAAAJ&hl=ko) <br>
 **LinkedIn**: [Link](https://kr.linkedin.com/in/shinhyeok-oh-5082b51a8) <br>
+**CV**: [Link](https://shinhyeokoh.github.io/cv.pdf) <br>
 
 ## Research Interests
 
