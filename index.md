@@ -17,6 +17,7 @@ I obtained a master’s degree in computer and communications engineering from t
 Transfer Learning, Large Language Models, Multimodality
 
 ## NEWS
+- <span style="font-size:0.9em;">DEC 2023: Our paper (MEME) got accepted to [AAAI 2024](https://aaai.org/aaai-conference/).</span> <br>
 - <span style="font-size:0.9em;">SEP 2023: Our paper on diffusion models (ANT) got accepted to [NeurIPS 2023](https://nips.cc/).</span> <br>
 - <span style="font-size:0.9em;">May 2023: Our 2 papers got accepted to Findings of [ACL 2023](https://2023.aclweb.org/).</span> <br>
 - <span style="font-size:0.9em;">NOV 2022: Our paper on text-to-speech synthesis (RWEN-TTS) got accepted to [AAAI 2023](https://aaai.org/Conferences/AAAI-23/).</span> <br>
@@ -29,11 +30,13 @@ Transfer Learning, Large Language Models, Multimodality
 - Reviewer of IEEE Transactions on Audio, Speech and Language Processing
 
 ## International Publications
-**<span style="color:#C70039;">[2023]</span>**
+**<span style="color:#C70039;">[2024]</span>**
 
 - **Multi-Architecture Multi-Expert Diffusion Models** <br>
 <span style="font-size:0.9em;">{Yunsung Lee, Jin-Young Kim, Hyojun Go}<sup>+</sup>, Myeongho Jeong, <u>Shinhyeok Oh</u>, Seungtaek Choi (<sup>+</sup>Co-first author)</span> <br>
 ***AAAI 2024*** (Accepted) [[PDF](https://arxiv.org/pdf/2306.04990.pdf)] <br>
+
+**<span style="color:#C70039;">[2023]</span>**
 
 - **Addressing Negative Transfer in Diffusion Models** <br>
 <span style="font-size:0.9em;">{Hyojun Go, JinYoung Kim, Yunsung Lee}<sup>+</sup>, Seunghyun Lee, <u>Shinhyeok Oh</u>, Hyeongdon Moon, Seungtaek Choi (<sup>+</sup>Co-first author)</span> <br>
@@ -128,7 +131,7 @@ Year | Award
 2018 | Grand Prize in Korean Language Information Processing Competition (Dependency Parsing) [Link](https://www.ajunews.com/view/20181019165312376)
 
 
-## Teaching Experience
+## Invited Talks
 - **Instructor, Kangwon National University, 2023** <br>
 Courses: Special Lecture for Junior (Topic: Guidance on career path) <br>
 
@@ -137,6 +140,9 @@ Courses: Special Lecture for Freshman (Topic: AI Foundation Models) <br>
 
 - **Instructor, Kangwon National University, 2022** <br>
 Courses: Special Lecture for Junior (Topic: Career in Artificial Intelligence) <br>
+
+
+## Teaching Experience
 
 - **Teaching Assistant, LG Uplus, 2020** <br>
 Courses: Natural Language Processing <br>
