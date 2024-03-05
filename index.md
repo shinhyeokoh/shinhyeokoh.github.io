@@ -123,13 +123,13 @@ Transfer Learning, Large Language Models, Multimodality
 
 Year | Award 
 -----|-------
-2023 | 1st Place, Open LLM Leaderboard (as of Oct 4, 2023) @Huggingface
-2021 | The First Place in the APE Task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf) (Automatic Post-Editing) [Link](https://www.edaily.co.kr/news/read?newsId=02341926629245064&mediaCodeNo=257&OutLnkChk=Y)
+2023 | 1st Place, Open LLM Leaderboard (as of Oct 4, 2023) @Huggingface [[Link](https://www.yna.co.kr/view/AKR20231005039300017?input=1195m)]
+2021 | The First Place in the APE Task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf) (Automatic Post-Editing) [[Link](https://www.edaily.co.kr/news/read?newsId=02341926629245064&mediaCodeNo=257&OutLnkChk=Y)]
 2020 | Special Prize in Korean Language Information Processing Competition (Chatbot)
 2020 | Special Prize in Korean Language Information Processing Competition (Sentiment Analysis)
 2019 | Bronze Prize in Korean Language Information Processing Competition (Dependency Parsing)
-2019 | Gold Prize in 1st Kangwon SW Festival [Link](https://cse.kangwon.ac.kr/cse/community/news.do?mode=view&articleNo=361532&article.offset=30&articleLimit=10)
-2018 | Grand Prize in Korean Language Information Processing Competition (Dependency Parsing) [Link](https://www.ajunews.com/view/20181019165312376)
+2019 | Gold Prize in 1st Kangwon SW Festival [[Link](https://cse.kangwon.ac.kr/cse/community/news.do?mode=view&articleNo=361532&article.offset=30&articleLimit=10)]
+2018 | Grand Prize in Korean Language Information Processing Competition (Dependency Parsing) [[Link](https://www.ajunews.com/view/20181019165312376)]
 
 
 ## Invited Talks
