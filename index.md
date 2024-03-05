@@ -34,7 +34,7 @@ Transfer Learning, Large Language Models, Multimodality
 
 - **Multi-Architecture Multi-Expert Diffusion Models** <br>
 <span style="font-size:0.9em;">{Yunsung Lee, Jin-Young Kim, Hyojun Go}<sup>+</sup>, Myeongho Jeong, <u>Shinhyeok Oh</u>, Seungtaek Choi (<sup>+</sup>Co-first author)</span> <br>
-***AAAI 2024*** (Accepted) [[PDF](https://arxiv.org/pdf/2306.04990.pdf)] <br>
+***AAAI 2024*** [[PDF](https://arxiv.org/pdf/2306.04990.pdf)] <br>
 
 **<span style="color:#C70039;">[2023]</span>**
 
