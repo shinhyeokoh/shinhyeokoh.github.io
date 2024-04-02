@@ -27,6 +27,7 @@ Transfer Learning, Large Language Models, Multimodality
 
 ## Academic Activities
 - Reviewer of ACL, NAACL, EACL, and ARR
+- Reviewer of Artificial Intelligence Review
 - Reviewer of IEEE Transactions on Audio, Speech and Language Processing
 
 ## International Publications
@@ -123,7 +124,7 @@ Transfer Learning, Large Language Models, Multimodality
 
 Year | Award 
 -----|-------
-2023 | 1st Place, Open LLM Leaderboard (as of Oct 4, 2023) @Huggingface [[Link](https://www.yna.co.kr/view/AKR20231005039300017?input=1195m)]
+2023 | 1st Place, Open LLM Leaderboard (as of Oct 4, 2023) @Huggingface (as a team member) [[Link](https://www.yna.co.kr/view/AKR20231005039300017?input=1195m)]
 2021 | The First Place in the APE Task @[WMT, EMNLP 2021](http://www.statmt.org/wmt21/pdf/2021.wmt-1.1.pdf) (Automatic Post-Editing) [[Link](https://www.edaily.co.kr/news/read?newsId=02341926629245064&mediaCodeNo=257&OutLnkChk=Y)]
 2020 | Special Prize in Korean Language Information Processing Competition (Chatbot)
 2020 | Special Prize in Korean Language Information Processing Competition (Sentiment Analysis)
