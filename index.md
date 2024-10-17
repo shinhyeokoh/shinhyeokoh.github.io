@@ -5,7 +5,7 @@ layout: default
 ## Shinhyeok Oh
 
 <img class="profile-picture" src="profile.jpg">
-I obtained a master’s degree in computer and communications engineering from the Kangwon National University, under the guidance of Prof. Harksoo Kim. I am currently working at 42dot as Generative NLP Engineer, and enjoy discussing topics related to transfer learning and knowledge distillation. Specifically, I find pleasure in exploring ways, such as self-supervised learning, domain adaptation, and multi-modality, to extract value from other tasks, domains, or previously overlooked resources for the intended objective. <br><br>
+I obtained a master’s degree in computer and communications engineering from the Kangwon National University, under the guidance of Prof. Harksoo Kim. I am currently working at 42dot as a Generative NLP Engineer, and enjoy discussing topics related to transfer learning and knowledge distillation. Specifically, I find pleasure in exploring ways, such as self-supervised learning, domain adaptation, and multi-modality, to extract value from other tasks, domains, or previously overlooked resources for the intended objective. <br><br>
 
 **Email**: achromatically@naver.com <br>
 **Google Scholar**: [Link](https://scholar.google.co.kr/citations?user=H6BKgo8AAAAJ&hl=ko) <br>
